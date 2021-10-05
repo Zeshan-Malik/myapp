@@ -1,0 +1,6 @@
+export const ADD_TO_CART = "ADD_TO_CART"
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART"
+export const FETCH_API = "FETCH_API"
+export const HACKER_NEWS = "HACKER_NEWS"
+export const FETCH_IMAGES = "FETCH_IMAGES"
+export const REMOVE_IMAGE = "REMOVE_IMAGE"
